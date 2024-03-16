@@ -7,7 +7,8 @@ Welcome to the Weather Application project! This application allows users to ret
 - Features
 - Installation
 - Usage
-- License
+- Contributions
+- Contact
 
 
 ## Introduction
